@@ -19,4 +19,8 @@ digitalWrite(9, LOW);
 digitalWrite(10, LOW);
 digitalWrite(11, HIGH);
 delay(100);
+digitalWrite(9, LOW);
+digitalWrite(10, HIGH);
+digitalWrite(11, LOW);
+delay(100);
 }
